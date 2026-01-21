@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+
+body{
+    background-color: rgb(175, 255, 179);
+    background-image: linear-gradient(to top, #1d4d19, #7bb853);
+    background-attachment: fixed;
+    font: 18px Arial, sans-serif;
+}
+
+p{
+    font: 18px Arial, sans-serif;
+    text-align: justify;
+    text-indent: 30px;
+}
+
+h1{
+    color: #132a13;
+}
+
+h1#principal{
+    text-align: center;
+    background-color: green;
+    color: white;
+}
+
+.destaque{
+    background-color: rgba(255, 255, 162, 0.342);
+}
+
+h2{
+    color: #ecf39e;
+}
+.basico{
+    color: #5ac700;
+}
+
+.intermediario{
+    color: #2cbb68;
+}
+
+.avançado{
+    color: #263600;
+}
