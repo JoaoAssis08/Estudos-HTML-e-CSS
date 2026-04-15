@@ -1,3 +1,8 @@
 @charset "UTF-8";
 
 /* A parelho em pé (portrait) */
+
+body {
+  background-image: url(../imagens-2/cev-portrait.jpg);
+  background-position: center bottom;
+}

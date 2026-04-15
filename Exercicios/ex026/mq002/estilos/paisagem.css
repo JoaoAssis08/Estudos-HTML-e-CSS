@@ -1,3 +1,8 @@
 @charset "UTF-8";
 
 /* A parelho deitado (lanscape) */
+
+body {
+  background-image: url(../imagens-2/cev-landscape.jpg);
+  background-position: left bottom;
+}
